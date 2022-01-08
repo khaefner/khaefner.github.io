@@ -1,7 +1,6 @@
 theme: slate
 title: Kyle's page
 
-rss: rss
 
 kramdown:
   syntax_highlighter_opts:
