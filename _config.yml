@@ -9,6 +9,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 titles_from_headings:
   strip_title: true
@@ -20,3 +21,5 @@ defaults:
       type: post
     values:
       tags: Other
+
+remote_theme: pages-themes/slate@v0.2.0
